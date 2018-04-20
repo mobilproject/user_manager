@@ -1,0 +1,7 @@
+*.ppk
+private/
+*.php
+*.php
+/nbproject/private/
+*.ppk
+*.ppk
